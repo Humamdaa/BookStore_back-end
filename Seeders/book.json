@@ -1,0 +1,107 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "671fb682e92633b20081b50e",
+    "publishYear": 1925,
+    "content": "A novel about the American dream.",
+    "num_of_pges": 218
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "671fdbdef590f95b0591830b",
+    "publishYear": 1960,
+    "content": "A story of racial injustice in the Deep South.",
+    "num_of_pges": 281
+  },
+  {
+    "title": "1984",
+    "author": "671fe07cf590f95b05918320",
+    "publishYear": 1949,
+    "content": "A dystopian novel about totalitarianism.",
+    "num_of_pges": 328
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "671fb682e92633b20081b50e",
+    "publishYear": 1813,
+    "content": "A romantic novel that critiques the British landed gentry.",
+    "num_of_pges": 432
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "671fe0f8f590f95b05918321",
+    "publishYear": 1851,
+    "content": "A quest for revenge against the white whale, Moby Dick.",
+    "num_of_pges": 635
+  },
+  {
+    "title": "War and Peace",
+    "author": "671fe15cf590f95b05918322",
+    "publishYear": 1869,
+    "content": "A historical novel that chronicles the French invasion of Russia.",
+    "num_of_pges": 1225
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "671fe1d0f590f95b05918323",
+    "publishYear": 1951,
+    "content": "A story about teenage angst and alienation.",
+    "num_of_pges": 214
+  },
+  {
+    "title": "Great Expectations",
+    "author": "671fe246f590f95b05918324",
+    "publishYear": 1861,
+    "content": "A young orphan named Pip's growth and personal development.",
+    "num_of_pges": 544
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "671fe2baf590f95b05918325",
+    "publishYear": 1847,
+    "content": "A gothic novel that follows the life of an orphaned girl.",
+    "num_of_pges": 532
+  },
+  {
+    "title": "Brave New World",
+    "author": "671fe32cf590f95b05918326",
+    "publishYear": 1932,
+    "content": "A dystopian society driven by technology and consumerism.",
+    "num_of_pges": 311
+  },
+  {
+    "title": "The Odyssey",
+    "author": "671fe3a8f590f95b05918327",
+    "publishYear": -800,
+    "content": "The epic journey of Odysseus returning home from the Trojan War.",
+    "num_of_pges": 384
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "671fe41cf590f95b05918328",
+    "publishYear": 1866,
+    "content": "A psychological drama about guilt and redemption.",
+    "num_of_pges": 671
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "671fe49af590f95b05918329",
+    "publishYear": 1847,
+    "content": "A tale of passion and revenge on the Yorkshire moors.",
+    "num_of_pges": 416
+  },
+  {
+    "title": "The Hobbit",
+    "author": "671fe50cf590f95b0591832a",
+    "publishYear": 1937,
+    "content": "Bilbo Baggins' adventure to win a share of the treasure guarded by the dragon Smaug.",
+    "num_of_pges": 310
+  },
+  {
+    "title": "Frankenstein",
+    "author": "671fe57ef590f95b0591832b",
+    "publishYear": 1818,
+    "content": "A scientist creates a sentient creature through an unorthodox scientific experiment.",
+    "num_of_pges": 280
+  }
+]
