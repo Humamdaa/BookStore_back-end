@@ -1,8 +1,7 @@
-const router = require("express").Router();
-const { validate_register, User } = require("../models/user_model");
+const { validate_register, User } = require("../../models/user_model");
 const bcrypt = require("bcrypt");
 
-router.post("/", async (req, res) => {
+const regiterCon = async (req, res) => {
   try {
     // Validate the request body
     const { error } = validate_register(req.body);
@@ -23,6 +22,7 @@ router.post("/", async (req, res) => {
     console.error(error);
     res.status(500).send({ message: "Oops something is wrong" });
   }
-});
-
-module.exports = router;
+};
+module.exports = {
+  regiterCon,
+};

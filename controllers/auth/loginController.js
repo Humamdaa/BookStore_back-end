@@ -1,11 +1,8 @@
-const router = require("express").Router();
-const Joi = require("joi");
-const { User, validate_login } = require("../models/user_model");
+const { User, validate_login } = require("../../models/user_model");
 const bcrypt = require("bcrypt"); // Corrected the typo
 
-router.post("/", async (req, res) => {
+const loginCont = async (req, res) => {
   try {
-    // Validate input using Joi
     const { error } = validate_login(req.body);
     if (error) {
       return res.status(400).send({ message: error.details[0].message });
@@ -40,6 +37,8 @@ router.post("/", async (req, res) => {
     console.error("Error during login:", error);
     return res.status(500).send({ message: "Internal server error" });
   }
-});
+};
 
-module.exports = router;
+module.exports = {
+  loginCont,
+};
